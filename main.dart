@@ -48,4 +48,5 @@ void main() {
   exercise.checkPalindrome('happiness');
   print('توليد سلسلة فيبوناتشي بعدد معين من الارقام');
   exercise.generateFibonacci(6);
+  exercise.toDoListSystem();
 }
